@@ -1,6 +1,6 @@
 # Sentimental-analysis
 
-This repository is dedicated to my sentimental analysis project titled as "Performance comparison of classification algorithms for sentimental analysis and domain adaptaion on Amazon review dataset.
+This repository is dedicated to my sentimental analysis project titled as "Performance comparison of classification algorithms for sentimental analysis and domain adaptaion on Amazon review dataset".
 
 1. The "DATA" folder has the data used.
 
