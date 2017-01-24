@@ -1,0 +1,5 @@
+This readme file corresponds to twitter_data_clean.py python file. 
+
+It takes the amazon file to be cleaned as a system argument.
+
+It then writes out the cleaned data to a CSV file format with the columns Tweet and Rating.

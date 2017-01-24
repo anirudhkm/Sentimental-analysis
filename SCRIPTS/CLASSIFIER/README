@@ -1,0 +1,9 @@
+This README is for the script.py.
+
+The program takes two system arguments for amazon review dataset and the twitter dataset.
+
+It then performs classification task for amazon data and twitter data and displays the result.
+
+Finally, the domain adaptation part is done where the generalized model is tested on both amazon data
+and twitter data and displays the result.
+

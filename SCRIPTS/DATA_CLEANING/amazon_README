@@ -1,0 +1,6 @@
+This readme file corresponds to amazon_data_cleaning.py python file. 
+
+It takes the amazon file to be cleaned as a system argument.
+
+It then writes out the cleaned data to a CSV file format with the columns ASIN, ID, Review, Rating.
+
